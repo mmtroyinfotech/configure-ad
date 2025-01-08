@@ -24,10 +24,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Set Up Azure Environment
+- Establish Secure Connection
+- Deploy AD Domain Controller in Azure
+- Integrate On-Premises AD with Azure
+- Configure Authentication and Access
+- Monitor and Maintain
 
 <h2>Deployment and Configuration Steps</h2>
 
