@@ -26,6 +26,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Configure Authentication and Access
 - Monitor and Maintain
 
+https://github.com/user-attachments/assets/a447125b-ddb9-4880-8f72-44e8f44d870d
+
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
